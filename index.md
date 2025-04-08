@@ -11,6 +11,8 @@ Events Coming Soon!
 
 The [ML4STS Lab at URI](https://ml4sts.com/) and the [DREAM Lab at UGA](https://dream.racheidalewis.com/) are partnering to prepare the next generation of tech leaders to build skill in AI deployment and governance. 
 
+
+
 ```mermaid
 flowchart TD
     ri[ML4STS Lab <br> URI]
@@ -23,6 +25,12 @@ flowchart TD
     mlq[How do prototyping tools  help non ML <br> experts deploy AI safely?]
     laih --> mlq & tl & eeq
 ```
+
+::::{margin}
+:::{warning}
+the diagrams do not render well in dark mode yet, use the toggle at the top of the page to view in light mode
+:::
+::::
 
 ::::{tab-set}
 :::{tab-item} Core Events
@@ -54,6 +62,8 @@ We will examine how student leaders think about what they do as leaders, their m
 
 We are currently fundraising to support the program and expect to launch in Spring 2026! 
 
+
+<!-- 
 ::::{tab-set}
 :::{tab-item} Semesters
 
@@ -76,7 +86,7 @@ timeline
 
 :::
 :::{tab-item} Detailed 
-
+ -->
 
 
 ```mermaid
@@ -99,6 +109,6 @@ gantt
 %%    section Continuing Events
 
 ```
-
+<!-- 
 :::
-::::
+:::: -->
