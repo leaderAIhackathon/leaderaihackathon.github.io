@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 2ab3c87c-7d9c-40a5-9c78-a42b08c05bf0
+  title: LeaderAI Hackathon
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/leaderAIhackathon/leaderaihackathon.github.io
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: article-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
