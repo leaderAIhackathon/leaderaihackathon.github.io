@@ -27,16 +27,25 @@ flowchart TD
 ::::{tab-set}
 :::{tab-item} Core Events
 :sync: laih
+
 Leader AI hackathons will bring together student leaders to build AI-powered tools that help
-improve organizataion functionality
+improve organizataion functionality. 
+
+We belive that AI governance and design skills are essential to safe AI for all. We hope to cultivate these skills in future tech leaders, focusing on those leading diverse engineering and stem student orgs to start. 
+
+
 :::
 :::{tab-item} ML4STS Research
 :sync: ml
-The 
+
+We will develop and evaluate tools for prototyping AI workflows and rigorously evaluating AI models and tools. Our findings will help inform best practices on how to democratize access to both building and evaluating AI to people with a variety of disciplinary backgrounds. 
+
 :::
 :::{tab-item} DREAM Research
 :sync: ee
-Tab two
+
+We will examine how student leaders think about what they do as leaders, their metacognition, in order to determine how they translate that experience into academic and professional success.  Our findings will help inform organizations how to structure leadership experiences and educators to best support students. 
+
 :::
 ::::
 
@@ -46,7 +55,7 @@ Tab two
 We are currently fundraising to support the program and expect to launch in Spring 2026! 
 
 ::::{tab-set}
-:::{tab-item} Key Events
+:::{tab-item} Semesters
 
 
 ```mermaid
