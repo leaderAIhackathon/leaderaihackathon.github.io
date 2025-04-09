@@ -8,9 +8,16 @@ project:
   # authors: []
   github: https://github.com/leaderAIhackathon/leaderaihackathon.github.io
   # To autogenerate a Table of Contents, run "myst init --write-toc"
-
   exclude:
     - README.md
+  abbreviations:
+    ML: Machine Learning
+    HTML: null
+    ML4STS: Machine Learning for Sociotechnical Systems
+    DREAM: Diversity | Research | Equity | Access | Matriculation
+    NSBE: National Society of Black Engineers
+    URI: University of Rhode Island
+    UGA: University of Georgia
 site:
   template: article-theme
   options:
