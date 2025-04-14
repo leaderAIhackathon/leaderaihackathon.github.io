@@ -49,10 +49,10 @@ We belive that AI governance and design skills are essential to safe AI for all.
 We will develop and evaluate tools for prototyping AI workflows and rigorously evaluating AI models and tools. Our findings will help inform best practices on how to democratize access to both building and evaluating AI to people with a variety of disciplinary backgrounds. 
 
 :::
-:::{tab-item} DREAM Research
+:::{tab-item} DREAM Research Group
 :sync: ee
 
-We will examine how student leaders think about what they do as leaders, their metacognition, in order to determine how they translate that experience into academic and professional success.  Our findings will help inform organizations how to structure leadership experiences and educators to best support students. 
+We will examine how student leaders think about what they do as leaders, their metacognition, in order to determine how they translate that experience into academic and professional success.  Our findings will help inform organizations on how to structure leadership experiences and educators on how to best support students. 
 
 :::
 ::::
@@ -104,7 +104,7 @@ We will develop tools to support and scaffold the AI building. We will analyze h
 We will also evaluate the benchmarks developed by the teams in the hackathon for their test-driven design and then apply our own thorough evaluation of their AIs. 
 
 :::
-:::{tab-item} DREAM Research
+:::{tab-item} DREAM Research Group
 :sync: ee
 
 
@@ -190,10 +190,11 @@ gantt
 - generalizable knowledge about how to support responsible AI development and monitoring
 
 :::
-:::{tab-item} DREAM Research
+:::{tab-item} DREAM Research Group
 :sync: ee
 
-
+- deeper understanding of the relationship between leadership experiences and academic succcess
+- generalized rubric development to enhance leadership experiences
 - graduate student supported for two years
 
 
@@ -203,7 +204,7 @@ gantt
 
 ## Team 
 
-Dr. Sarah Brown and Dr. Racheida Lewis met as leaders in NSBE, so we know the effect of student leadership experiences on our career.  In NSBE, we learned time management, budgeting, and governance skills that have all been valuable in our careers. Importantly, we have worked together before as leaders in distinct verticals within the society and with Dr. Lewis serving on a committee chaired by Dr. Brown. 
+Dr. Sarah Brown and Dr. Racheida Lewis met as leaders in the National Society of Black Engineers (NSBE), and have experienced first hand the impact of student leadership experiences on our careers.  Through NSBE we learned time management, budgeting, and governance skills that have all been valuable in our careers. Importantly, we have worked together before as leaders in distinct verticals within the Society and with Dr. Lewis serving on a committee chaired by Dr. Brown.
 
 (ml4stslab)=
 ### ML4STS Lab
