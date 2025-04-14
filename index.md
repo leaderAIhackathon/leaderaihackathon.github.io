@@ -210,7 +210,7 @@ gantt
 
 ## Team 
 
-Dr. Sarah Brown and Dr. Racheida Lewis met as leaders in the National Society of Black Engineers (NSBE), and have experienced first hand the impact of student leadership experiences on our careers.  Through NSBE we learned time management, budgeting, and governance skills that have all been valuable in our careers. Importantly, we have worked together before as leaders in distinct verticals within the Society and with Dr. Lewis serving on a committee chaired by Dr. Brown.
+Dr. Sarah Brown and Dr. Racheida Lewis met as leaders in the National Society of Black Engineers (NSBE) and have experienced first hand the impact of student leadership experiences on our careers. Through NSBE we learned time management, budgeting, and governance skills that have all been valuable in our careers. Importantly, we have worked together before as leaders in distinct verticals within the Society and with Dr. Lewis serving on a committee chaired by Dr. Brown.
 
 (ml4stslab)=
 ### ML4STS Lab
