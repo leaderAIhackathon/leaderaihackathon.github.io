@@ -109,10 +109,15 @@ We will also evaluate the benchmarks developed by the teams in the hackathon for
 
 
 ### Key Questions
--
+
+- What leadership skills do students find most salient/transferable in their academic careers?
+- How do student leaders apply these skills in their academic careers?
+- What opportunities do student leaders have to employ these skills in academic settings?
 
 ### Method
-TBD
+Participants' interactions with the AI will be analyzed using iterative inductive coding methods and refined to identify emergent themes in the data.
+
+We will also interview a sample of participants to get a more in-depth understanding of this phenomenon to better support our conclusions. Interviews will be professionally transcribed and abductively coded using themes that emerged from the AI interactions as well as allowing for new themes to surface based on the interviews.
 
 :::
 ::::
