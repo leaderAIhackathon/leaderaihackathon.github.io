@@ -16,7 +16,7 @@ The [](ml4stslab) and the [](dreamlab) are partnering to prepare the next genera
 ```mermaid
 flowchart TD
     ri[ML4STS Lab <br> URI]
-    ga[DREAM Lab <br> UGA]
+    ga[DREAM Research Group <br> UGA]
     laih[LeaderAI Hackathons]
     ri --> laih
     ga --> laih
@@ -212,6 +212,6 @@ The [ML4STS Lab at URI](https://ml4sts.com/) is directed by [Dr. Sarah Brown](ht
 
 
 (dreamlab)=
-### DREAM Lab 
+### DREAM Research Group 
 
-The [DREAM Lab at UGA](https://dream.racheidalewis.com/) is directed by [Dr. Racheida Lewis](https://www.racheidalewis.com/), Assistant Professor in the Engineering Education Transformations Institute (EETI) and the Department of Electrical and Computer Engineering. 
+The [DREAM Research Group at UGA](https://dream.racheidalewis.com/) is directed by [Dr. Racheida Lewis](https://www.racheidalewis.com/), Assistant Professor in the Engineering Education Transformations Institute (EETI) and the School of Electrical and Computer Engineering. 
