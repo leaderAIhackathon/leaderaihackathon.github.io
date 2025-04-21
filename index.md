@@ -72,10 +72,10 @@ Each Hackathon will be a 2 day event.
 * - Day 1
   - Day 2
 * - * hands-on how to build and evaluate workshop
-    * brain storming
-    * team formation 
+    * brainstorming, project planning and coaching
     * work time
   - * work time
+    * consultations
     * presentations 
     * hands-on launch & maintain workshop
 ````
@@ -183,8 +183,11 @@ gantt
 :::{tab-item} Hackathons
 :sync: laih
 
-- X student leaders at 2 universities trained in AI deployment and governance
-- Y deployed and tested AI applications that assist student organizations
+We expect to have a total impact of:
+- 160 total student leaders at 2 universities trained in AI deployment and governance (40 per university per year)
+- 40 deployed and tested AI applications that assist student organizations
+- 20 re-evaluated, refined and re-released AI applications in year 2
+
 
 :::
 :::{tab-item} ML4STS Research
@@ -192,8 +195,9 @@ gantt
 
 - usable benchmarking tools
 - agent development frame work and/or training matrials
-- graduate student supported for two years
 - generalizable knowledge about how to support responsible AI development and monitoring
+- graduate student supported for two years
+- two REU students in year 2
 
 :::
 :::{tab-item} DREAM Research Group
@@ -202,7 +206,7 @@ gantt
 - deeper understanding of the relationship between leadership experiences and academic succcess
 - generalized rubric development to enhance leadership experiences
 - graduate student supported for two years
-
+- two REU students in year 2
 
 :::
 ::::
